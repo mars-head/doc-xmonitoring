@@ -1,0 +1,42 @@
+---
+index: 2.03
+---
+### {{page.title}}
+聚集了可以被用于建模器的组件的工具栏。如果在组件工具栏中，点击所需的组件，就会在建模器添加相关组件。  
+![组件工具栏][component-toolbar]
+
+- ![箭头][component-arrow] : 变更选择模式和移动模式。当按住<kbd>Space</kbd>时，将会动作为移动模式。
+
+- ![线][component-line] : 聚集[线组件]({{site.baseurl}}/components/#线-组件)。
+
+- ![形状][component-shape] : 聚集[形状组件]({{site.baseurl}}/components/#形状-组件)。
+
+- ![文本][component-text] : 聚集[文本组件]({{site.baseurl}}/components/#文本-组件)。
+
+- ![图像][component-image] : 聚集[图像组件]({{site.baseurl}}/components/#图像-组件)。
+
+- ![仪表][component-gauge] : 聚集[仪表组件]({{site.baseurl}}/components/#仪表-组件)。
+
+- ![图表][component-chart] : 聚集[图表组件]({{site.baseurl}}/components/#图表-组件)。
+
+- ![表格][component-table] : 聚集[表格组件]({{site.baseurl}}/components/#表格-组件)。
+
+[component-toolbar]: {{site.baseurl}}/assets/tutorials/component-toolbar.png
+{: height="633px" }
+
+[component-arrow]: {{site.baseurl}}/assets/tutorials/component-arrow.png
+{: height="30px" }
+[component-line]: {{site.baseurl}}/assets/tutorials/component-line.png
+{: height="30px" }
+[component-shape]: {{site.baseurl}}/assets/tutorials/component-shape.png
+{: height="30px" }
+[component-text]: {{site.baseurl}}/assets/tutorials/component-text.png
+{: height="30px" }
+[component-image]: {{site.baseurl}}/assets/tutorials/component-image.png
+{: height="30px" }
+[component-gauge]: {{site.baseurl}}/assets/tutorials/component-gauge.png
+{: height="30px" }
+[component-chart]: {{site.baseurl}}/assets/tutorials/component-chart.png
+{: height="30px" }
+[component-table]: {{site.baseurl}}/assets/tutorials/component-table.png
+{: height="30px" }
