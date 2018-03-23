@@ -10,5 +10,5 @@ title: 3D容器
 
 - 类型：容器
 
-[Container-02]: {{site.baseurl}}/assets/components/Container-02.png
+[Container-02]: {{site.baseurl}}/assets/components/container-02.png
 {: height="200px"}
