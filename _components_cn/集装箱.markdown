@@ -9,5 +9,5 @@ index: 6.01
 
 - 类型：容器  
 
-[Container-01]: {{site.baseurl}}/assets/components/Container-01.png
+[Container-01]: {{site.baseurl}}/assets/components/container-01.png
 {: height="200px"}
